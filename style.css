@@ -42,5 +42,9 @@ pre{
     }
     pre{max-width: 100%;overflow-x: auto;}
 }
-
-
+.icon{
+    float: right;
+    font-size: 18px;
+    margin-left: 10px;
+    cursor: pointer;
+}
